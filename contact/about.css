@@ -1,0 +1,61 @@
+body {
+  background-image: url("img/achtergrond.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+body ,html {
+  font-family: 'Signika', sans-serif;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+
+.logo {
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.aboutus {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.container img{
+    width: 180px;
+    height: 150px;
+
+}
+
+
+.container {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+
+.btn {
+    color: #fff;
+    background-color: #73C1E1;
+    border: white;
+
+}
+.btn:hover {
+    color: #fff;
+    background-color: #0F2936;
+}
+
+
+
+.col-sm{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
