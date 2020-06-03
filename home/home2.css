@@ -1,0 +1,58 @@
+/*** general ***/
+* {
+    margin: 0;
+    padding: 0;
+}
+body, html {
+    height: 100%;
+    color: #fff;
+    font-family: 'Signika', sans-serif;
+}
+/*** header ***/
+.parallax {
+    background-image: url("img/parallax.jpg");
+    height: 100%;
+    /*parallax scroll*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.intro h1 {
+    padding-top: 8rem;
+    font-size: 5rem;
+}
+.intro h3 {
+    font-size: 2rem;
+}
+.intro h2 {
+    font-size: 3rem;
+}
+/*** main ***/
+.event {
+    color: #09475B;
+}
+.row {
+    margin: 0 auto;
+    overflow: hidden;
+}
+.blok {
+    background-color: #09475B;
+}
+.btn {
+    color: #fff;
+    background-color: #73C1E1;
+}
+.titleblok {
+    color: #73C1E1;
+}
+.blok:hover .titleblok {
+    color: #fff;
+}
+.btn:hover {
+    color: #fff;
+    background-color: #0F2936;
+}
+hr {
+    background-color: #fff;
+}
