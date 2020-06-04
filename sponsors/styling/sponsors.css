@@ -1,0 +1,21 @@
+body {
+    background-image: url(../foto/achtergrond.jpg);
+}
+
+.container {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 55%;
+    height: auto;
+    padding: 5px;
+    margin-bottom: 10%;
+    margin-top: 3%;
+}
+.image, .logo {
+    margin-left: 13%;
+    width: 200px;
+    height: auto;
+    margin-top: 10%;
+    padding: 3%;
+}
+
