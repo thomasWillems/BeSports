@@ -8,6 +8,31 @@ body, html {
     color: #fff;
     font-family: 'Signika', sans-serif;
 }
+/*extra responsiveness text*/
+@media only screen and (max-width: 600px){
+    .intro h1 {
+        padding-top: 6rem;
+        font-size: 4rem;
+    }
+    .intro h3 {
+        font-size: 1.6rem;
+    }
+    .intro h2 {
+        font-size: 2rem;
+    }
+}
+@media only screen and (min-width: 601px){
+    .intro h1 {
+        padding-top: 8rem;
+        font-size: 5rem;
+    }
+    .intro h3 {
+        font-size: 2rem;
+    }
+    .intro h2 {
+        font-size: 3rem;
+    }
+}
 /*** header ***/
 .parallax {
     background-image: url("img/parallax.jpg");
@@ -18,23 +43,9 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.intro h1 {
-    padding-top: 8rem;
-    font-size: 5rem;
-}
-.intro h3 {
-    font-size: 2rem;
-}
-.intro h2 {
-    font-size: 3rem;
-}
 /*** main ***/
 .event {
     color: #09475B;
-}
-.row {
-    margin: 0 auto;
-    overflow: hidden;
 }
 .card {
     background-color: #09475B;
@@ -43,10 +54,10 @@ body, html {
     color: #fff;
     background-color: #73C1E1;
 }
-.card-title {
+.card-title, #mail:link {
     color: #73C1E1;
 }
-.card:hover .card-title {
+.card:hover .card-title, #mail:hover {
     color: #fff;
 }
 .btn:hover {
@@ -56,3 +67,4 @@ body, html {
 hr {
     background-color: #fff;
 }
+
