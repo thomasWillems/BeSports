@@ -10,7 +10,8 @@
 }
 .contact-section h1 {
     text-align: center;
-    color: #ddd;
+    color: #dddddd;
+    margin-top: 70px;
 }
 .border {
     width: 100px;
@@ -126,7 +127,6 @@ nav {
     font-family: 'Signika', sans-serif;
     background-color: #0F2936;
 }
-
 nav .logo {
     height: 50px;
     width: auto;
