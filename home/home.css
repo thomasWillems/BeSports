@@ -11,7 +11,7 @@ body, html {
 /*extra responsiveness text*/
 @media only screen and (max-width: 600px){
     .intro h1 {
-        padding-top: 5rem;
+        padding-top: 7rem;
         font-size: 4rem;
     }
     .intro h3 {
@@ -23,7 +23,7 @@ body, html {
 }
 @media only screen and (min-width: 601px){
     .intro h1 {
-        padding-top: 7rem;
+        padding-top: 8rem;
         font-size: 5rem;
     }
     .intro h3 {
@@ -34,6 +34,9 @@ body, html {
     }
 }
 /*** nav ***/
+.navbar {
+    background-color: #09475B;
+}
 nav .logo {
     height: 50px;
     width: auto;
