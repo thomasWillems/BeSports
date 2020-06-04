@@ -122,3 +122,33 @@ textarea.contact-form-text {
     margin-top: -95px;
     margin-bottom: 5px;
 }
+nav {
+    font-family: 'Signika', sans-serif;
+    background-color: #0F2936;
+}
+
+nav .logo {
+    height: 50px;
+    width: auto;
+}
+
+.hover-effect:hover {
+    background-color: #0F2936;
+}
+
+.logoheader {
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+footer {
+    background-color: #0F2936;
+    color: white;
+}
+.icon {
+    color: #73C1E1;
+    font-size: 2rem;
+}
+.icon:hover {
+    color: #fff;
+}

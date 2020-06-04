@@ -8,6 +8,7 @@ body{
     color: white;
     font-family: 'Signika', sans-serif;
     font-size: 25px;
+    background-color: white;
 }
 .class{
     margin-top: 20px;
@@ -34,4 +35,23 @@ nav .logo {
 
 .hover-effect:hover {
     background-color: #0F2936;
+}
+.border-img{
+    border: 2px solid #0F2936;
+    border-radius: 1rem;
+
+}
+footer {
+    background-color: #0F2936;
+}
+.icon {
+    color: #73C1E1;
+    font-size: 2rem;
+}
+.icon:hover {
+    color: #fff;
+    
+}
+.navbar {
+    background-color: #09475B;
 }
