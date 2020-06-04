@@ -1,5 +1,5 @@
 body {
-  background-image: url("img/achtergrond.jpg");
+  background-image: url("img/achtergrond1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -58,4 +58,16 @@ body ,html {
 .col-sm{
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.rol {
+  color: #09475b;
+}
+
+.naam {
+  color: #09475b;
+}
+
+.about {
+  color: #09475b;
 }
