@@ -6,12 +6,24 @@ body {
   background-attachment: fixed;
 }
 
-body ,html {
+body, html {
   font-family: 'Signika', sans-serif;
   max-width: 100%;
   margin: 0 auto;
 }
 
+nav {
+  font-family: 'Signika', sans-serif;
+}
+
+nav .logo {
+  height: 50px;
+  width: auto;
+}
+
+.hover-effect:hover {
+  background-color: #0F2936;
+}
 
 .logo {
   text-align: center;
@@ -26,38 +38,32 @@ body ,html {
   background-color: rgba(255, 255, 255, 0.5);
 }
 
-.container img{
-    width: 180px;
-    height: 150px;
-
+.container img {
+  width: 180px;
+  height: 150px;
 }
-
 
 .container {
-    color: black;
-    background-color: rgba(255, 255, 255, 0.5);
-    padding-top: 15px;
-    padding-bottom: 15px;
-
+  color: black;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
-
 
 .btn {
-    color: #fff;
-    background-color: #73C1E1;
-    border: white;
-
+  color: #fff;
+  background-color: #73C1E1;
+  border: white;
 }
+
 .btn:hover {
-    color: #fff;
-    background-color: #0F2936;
+  color: #fff;
+  background-color: #0F2936;
 }
 
-
-
-.col-sm{
-    margin-top: 20px;
-    margin-bottom: 20px;
+.col-sm {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .rol {
