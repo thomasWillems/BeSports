@@ -38,7 +38,7 @@ nav .logo {
     height: 50px;
     width: auto;
 }
-.hover-effect:hover {
+nav .hover-effect:hover, footer {
     background-color: #0F2936;
 }
 /*** header ***/
@@ -75,4 +75,14 @@ nav .logo {
 hr {
     background-color: #fff;
 }
-
+/*** footer ***/
+footer {
+    background-color: #0F2936;
+}
+.icon {
+    color: #73C1E1;
+    font-size: 2rem;
+}
+.icon:hover {
+    color: #fff;
+}
