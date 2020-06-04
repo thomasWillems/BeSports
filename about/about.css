@@ -14,6 +14,7 @@ body, html {
 
 nav {
   font-family: 'Signika', sans-serif;
+  background-color: #0F2936;
 }
 
 nav .logo {
@@ -25,11 +26,14 @@ nav .logo {
   background-color: #0F2936;
 }
 
-.logo {
-  text-align: center;
-  padding-bottom: 20px;
-  padding-top: 10px;
+.logoheader{
+text-align: center;
+padding-top: 90px;
+padding-bottom: 20px;
+
+
 }
+
 
 .aboutus {
   width: 90%;
@@ -76,4 +80,18 @@ nav .logo {
 
 .about {
   color: #09475b;
+}
+
+
+
+footer {
+    background-color: #0F2936;
+    color: white;
+}
+.icon {
+    color: #73C1E1;
+    font-size: 2rem;
+}
+.icon:hover {
+    color: #fff;
 }

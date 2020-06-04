@@ -6,6 +6,9 @@ nav .logo {
     height: 50px;
     width: auto;
 }
+.navbar {
+    background-color: #09475B;
+}
 
 .nav-item .hover-effect {
     background-color: #0F2936;
