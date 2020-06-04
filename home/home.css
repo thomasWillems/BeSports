@@ -59,6 +59,7 @@ nav .hover-effect:hover, footer {
     color: #09475B;
 }
 .card {
+    width: 20rem;
     background-color: #09475B;
 }
 .btn {
