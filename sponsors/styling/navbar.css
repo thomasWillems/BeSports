@@ -1,0 +1,12 @@
+nav {
+    font-family: 'Signika', sans-serif;
+}
+
+nav .logo {
+    height: 50px;
+    width: auto;
+}
+
+.nav-item .hover-effect {
+    background-color: #0F2936;
+}
