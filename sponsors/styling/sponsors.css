@@ -9,7 +9,7 @@ body {
     height: auto;
     padding: 5px;
     margin-bottom: 10%;
-    margin-top: 3%;
+    margin-top: 10%;
 }
 .image, .logo {
     margin-left: 13%;
@@ -17,5 +17,20 @@ body {
     height: auto;
     margin-top: 10%;
     padding: 3%;
+}
+
+
+footer {
+    background-color: #0F2936;
+}
+.icon {
+    color: #73C1E1;
+    font-size: 2rem;
+}
+.icon:hover {
+    color: #fff;
+}
+.p-4 {
+    color: #fff;
 }
 
