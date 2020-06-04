@@ -40,3 +40,13 @@ nav .logo {
     border-radius: 1rem;
 
 }
+footer {
+    background-color: #0F2936;
+}
+.icon {
+    color: #73C1E1;
+    font-size: 2rem;
+}
+.icon:hover {
+    color: #fff;
+}
