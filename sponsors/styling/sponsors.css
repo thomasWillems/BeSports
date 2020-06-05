@@ -3,6 +3,16 @@ body {
     font-family: 'Signika', sans-serif;  
 }
 
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 3px 3px #fff;
+    margin-top: 15%;
+    color: #0F2936;
+    font-weight: bold;
+}
+
+
 .container {
     align-items: center;
     background-color: rgba(255, 255, 255, 0.6);
@@ -10,7 +20,7 @@ body {
     height: auto;
     padding: 5px;
     margin-bottom: 10%;
-    margin-top: 10%;
+    margin-top: 4%;
 }
 .image, .logo {
     cursor: pointer;

@@ -1,17 +1,17 @@
 # BeSports
 
-### Welcome to our project *BeSports*!
+## Welcome to our project *BeSports*!
 
-BeSports organises super fun sports events!
-We love kitesurfing, skiing and cycling and want to share our passion with you! Join our events to discover the fun!
+**BeSports** organises super fun **sports events!**
+We love **kitesurfing, skiing and cycling** and want to share our passion with you! Join our events to discover the fun!
 <br/>
 <br/>
-Check out our site [BeSports.be](https://thomaswillems.github.io/BeSports/)
+Check out our website **[BeSports.be](https://thomaswillems.github.io/BeSports/)**
 <br/>
 
 ![Screenshot](home/img/besports.png)
 
-### About us.
+## About us
 
 We are a sports company based in Flanders, Belgium. We organise sport events all over the world, from cycling to skiing. You can look at our upcoming events and start dreaming about your next trip!
 <br/> 
@@ -20,22 +20,18 @@ Our instructors are qualified to teach and coach all age groups!
 Looking for an intense cycling training? Or rather have an exciting experience in the snow? Not a fan of land under your feet? We organise kite events aswell!
 <br>
 <br>
-Our team is **Ennio, Lenn, Pieter, Thomas & Yuri**.
+Our enthousiastic team is **Ennio, Lenn, Pieter, Thomas & Yuri**.
 
 ![About](home/img/about.png)
 
-### Recources
+## Info
 
-We used Git, Bootstrap, Vanilla CSS and HTML to build this project. 
+To get in touch with us, you can find info on our website. Call us or email us by clicking on the icons in the contact page.
+Fill out the form to enroll for our activities! 
 
-    The readme says why they made it
-    The readme explains what this repo/project is
-    The readme explains why it is on github
-    The readme links to a preview (screenshot)
-    The readme contains a nice image
-    The readme does not contain the readme/license of dependencies, libraries, templates
-    If needed they are included in the repo and are mentioned in the readme
-    The readme is divided in sections
-    The readme is fun to read
-    The readme looks good
-    The readme is clear, even for someone that has no idea what is going on
+## Recources
+
+The making of the website is a group project using Git, Bootstrap, Vanilla CSS and HTML5. 
+We used Fontawesome, Google Fonts, Formspree as well. The scores on the Lighthouse test are good on all pages. Data are gathered through Google Analytics.  
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Logo](home/img/logo.png)
