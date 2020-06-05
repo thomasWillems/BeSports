@@ -24,11 +24,11 @@ h1 {
 }
 .image, .logo {
     cursor: pointer;
-    margin-left: 15%;
+    margin-left: 20%;
     width: 170px;
     height: auto;
     margin-top: 10%;
-    padding: 3%;
+    padding: 1%;
 }
 .logo:hover{
     box-shadow: 3px 3px 3px #0F2936;
