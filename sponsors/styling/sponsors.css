@@ -12,11 +12,15 @@ body {
     margin-top: 10%;
 }
 .image, .logo {
+    cursor: pointer;
     margin-left: 13%;
     width: 200px;
     height: auto;
     margin-top: 10%;
     padding: 3%;
+}
+.logo:hover{
+    box-shadow: 3px 3px 3px #0F2936;
 }
 
 
