@@ -35,3 +35,7 @@ The making of the website is a group project using Git, Bootstrap, Vanilla CSS a
 We used Fontawesome, Google Fonts, Formspree as well. The scores on the Lighthouse test are good on all pages. Data are gathered through Google Analytics.  
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Logo](home/img/logo.png)
+
+## Extra requirement
+
+Add a clickable logo in the navigation bar that redirects to the homepage.
