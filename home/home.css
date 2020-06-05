@@ -32,6 +32,9 @@ body, html {
     .intro h2 {
         font-size: 3rem;
     }
+    .event p {
+        font-size: 1.1rem;
+    }
 }
 /*** nav ***/
 .navbar {
@@ -44,7 +47,7 @@ nav .logo {
 nav .hover-effect:hover, footer {
     background-color: #0F2936;
 }
-/*** header ***/
+/*** parallax ***/
 .parallax {
     background-image: url("img/parallax.jpg");
     height: 100%;
