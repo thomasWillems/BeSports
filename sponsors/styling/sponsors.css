@@ -1,5 +1,6 @@
 body {
     background-image: url(../foto/achtergrond.jpg);
+    font-family: 'Signika', sans-serif;  
 }
 
 .container {
@@ -26,6 +27,7 @@ body {
 
 footer {
     background-color: #0F2936;
+    font-family: 'Signika', sans-serif; 
 }
 .icon {
     color: #73C1E1;
