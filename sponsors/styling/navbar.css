@@ -3,7 +3,9 @@ nav {
 }
 
 nav .logo {
-    height: 45px;
+    margin-left: -4%;
+    margin-top: -3%;
+    height: 52px;
     width: auto;
 }
 .navbar {
