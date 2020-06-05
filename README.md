@@ -1,21 +1,30 @@
 # BeSports
 
-###Welcome to our project *BeSports*!
-We are **Ennio, Lenn, Pieter, Thomas & Yuri**.
+### Welcome to our project *BeSports*!
 
 BeSports organises super fun sports events!
-We love kitesurfing, skiing and cycling and want to share our passion with you! Join our contests to discover the fun!
-
-![Screenshot](home/img/BeSports.png)
-
+We love kitesurfing, skiing and cycling and want to share our passion with you! Join our events to discover the fun!
+<br/>
+<br/>
 Check out our site [BeSports.be](https://thomaswillems.github.io/BeSports/)
-###About us.
+<br/>
 
-We are a sports company based in Flanders, Belgium. We organise sport events all over the world, from cycling to skiing. You can look at our upcoming events and start dreaming about your next trip!<br/> 
-Our instructors are qualified to teach and coach all age groups!<br/>
-Looking for an intense cycling training? Or rather have an exciting experience in the snow? Not a fan of land under your feet? We organise kite events as well!
+![Screenshot](home/img/besports.png)
 
-###Recources
+### About us.
+
+We are a sports company based in Flanders, Belgium. We organise sport events all over the world, from cycling to skiing. You can look at our upcoming events and start dreaming about your next trip!
+<br/> 
+Our instructors are qualified to teach and coach all age groups!
+<br/>
+Looking for an intense cycling training? Or rather have an exciting experience in the snow? Not a fan of land under your feet? We organise kite events aswell!
+<br>
+<br>
+Our team is **Ennio, Lenn, Pieter, Thomas & Yuri**.
+
+![About](home/img/about.png)
+
+### Recources
 
 We used Git, Bootstrap, Vanilla CSS and HTML to build this project. 
 

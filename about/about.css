@@ -26,14 +26,11 @@ nav .logo {
   background-color: #0F2936;
 }
 
-.logoheader{
-text-align: center;
-padding-top: 90px;
-padding-bottom: 20px;
-
-
+.logoheader {
+  text-align: center;
+  padding-top: 90px;
+  padding-bottom: 20px;
 }
-
 
 .aboutus {
   width: 90%;
@@ -82,16 +79,16 @@ padding-bottom: 20px;
   color: #09475b;
 }
 
-
-
 footer {
-    background-color: #09475B;
-    color: white;
+  background-color: #09475B;
+  color: white;
 }
+
 .icon {
-    color: #73C1E1;
-    font-size: 2rem;
+  color: #73C1E1;
+  font-size: 2rem;
 }
+
 .icon:hover {
-    color: #fff;
+  color: #fff;
 }
