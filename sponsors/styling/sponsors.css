@@ -16,7 +16,7 @@ h1 {
 .container {
     align-items: center;
     background-color: rgba(255, 255, 255, 0.6);
-    width: 55%;
+    width: 60%;
     height: auto;
     padding: 5px;
     margin-bottom: 10%;
@@ -24,7 +24,7 @@ h1 {
 }
 .image, .logo {
     cursor: pointer;
-    margin-left: 13%;
+    margin-left: 30%;
     width: 200px;
     height: auto;
     margin-top: 10%;
@@ -47,6 +47,10 @@ footer {
     color: #fff;
 }
 .p-4 {
+    color: #fff;
+}
+
+.author {
     color: #fff;
 }
 
