@@ -4,7 +4,7 @@
     font-family: 'Signika', sans-serif;
 }
 .contact-section {
-    background-color:#09475B;
+    background-color:#0F2936;
     background-size: cover;
     padding: 40px 0;
 }
@@ -58,7 +58,7 @@ textarea.contact-form-text {
     background: #0F2936;
 }
 .contact-info {
-    background: #09475B;
+    background: #0F2936;
     box-sizing: border-box;
     align-items: center;
     justify-content: center;
@@ -79,7 +79,7 @@ textarea.contact-form-text {
 }
 .card-icon {
     font-size: 28px;
-    background: #0F2936;
+    background: #09475B;
     width: 60px;
     height: 60px;
     text-align: center;
@@ -125,7 +125,7 @@ textarea.contact-form-text {
 }
 nav {
     font-family: 'Signika', sans-serif;
-    background-color: #0F2936;
+    background-color: #09475B;
 }
 nav .logo {
     height: 50px;
@@ -142,7 +142,7 @@ nav .logo {
     padding-bottom: 20px;
 }
 footer {
-    background-color: #0F2936;
+    background-color:  #09475B;
     color: white;
 }
 .icon {
