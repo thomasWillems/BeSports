@@ -6,8 +6,9 @@ We are **Ennio, Lenn, Pieter, Thomas & Yuri**.
 BeSports organises super fun sports events!
 We love kitesurfing, skiing and cycling and want to share our passion with you! Join our contests to discover the fun!
 
-![Screenshot](home/img/logo.png)
+![Screenshot](home/img/BeSports.png)
 
+Check out our site [BeSports.be](https://thomaswillems.github.io/BeSports/)
 ###About us.
 
 We are a sports company based in Flanders, Belgium. We organise sport events all over the world, from cycling to skiing. You can look at our upcoming events and start dreaming about your next trip!<br/> 
