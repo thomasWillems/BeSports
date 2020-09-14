@@ -20,22 +20,25 @@ Our instructors are qualified to teach and coach all age groups!
 Looking for an intense cycling training? Or rather have an exciting experience in the snow? Not a fan of land under your feet? We organise kite events aswell!
 <br>
 <br>
-Our enthousiastic team is **Ennio, Lenn, Pieter, Thomas & Yuri**.
+Call us or email us by clicking on the icons in the contact page.
+Fill out the form to enroll for our activities!
+<br>
+<br>
+## Teamwork
+Our enthousiastic team is:
 
 ![About](home/img/about.png)
 
-## Info
-
-To get in touch with us, you can find info on our website. Call us or email us by clicking on the icons in the contact page.
-Fill out the form to enroll for our activities! 
+Design & styling of the pages:
+* Yuri - homepage
+* Pieter - about
+* Thomas - activities
+* Ennio - contact
+* Lenn - sponsors
 
 ## Recources
 
-The making of the website is a group project using Git, Bootstrap, Vanilla CSS and HTML5. 
-We used Fontawesome, Google Fonts, Formspree as well. The scores on the Lighthouse test are good on all pages. Data are gathered through Google Analytics.  
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Logo](home/img/logo.png)
+The making of the website is a group project using Git, Bootstrap, Vanilla CSS and HTML5. We used Fontawesome, Google Fonts and Formspree as well. The scores on the Lighthouse test are good on all pages. Data are gathered through Google Analytics.  
 
-## Extra requirement
-
-Add a clickable logo in the navigation bar that redirects to the homepage.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ![Logo](home/img/logo.png)
